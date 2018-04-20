@@ -1,0 +1,8 @@
+C:\SPI\Service_Embraer\SPI_Archive_Copy\SPI_Archive_Copy\bin\Debug\SPI_Archive_Copy.exe.config
+C:\SPI\Service_Embraer\SPI_Archive_Copy\SPI_Archive_Copy\bin\Debug\SPI_Archive_Copy.exe
+C:\SPI\Service_Embraer\SPI_Archive_Copy\SPI_Archive_Copy\bin\Debug\SPI_Archive_Copy.pdb
+C:\SPI\Service_Embraer\SPI_Archive_Copy\SPI_Archive_Copy\bin\Debug\log4net.dll
+C:\SPI\Service_Embraer\SPI_Archive_Copy\SPI_Archive_Copy\bin\Debug\log4net.xml
+C:\SPI\Service_Embraer\SPI_Archive_Copy\SPI_Archive_Copy\obj\Debug\SPI_Archive_Copy.exe
+C:\SPI\Service_Embraer\SPI_Archive_Copy\SPI_Archive_Copy\obj\Debug\SPI_Archive_Copy.pdb
+C:\SPI\Service_Embraer\SPI_Archive_Copy\SPI_Archive_Copy\obj\Debug\SPI_Archive_Copy.csprojResolveAssemblyReference.cache
