@@ -1,7 +1,0 @@
-C:\SPI\Service_Embraer\SPI_Archive_Copy\SPI_Archive_Copy\bin\Release\SPI_Archive_Copy.exe.config
-C:\SPI\Service_Embraer\SPI_Archive_Copy\SPI_Archive_Copy\bin\Release\SPI_Archive_Copy.exe
-C:\SPI\Service_Embraer\SPI_Archive_Copy\SPI_Archive_Copy\bin\Release\SPI_Archive_Copy.pdb
-C:\SPI\Service_Embraer\SPI_Archive_Copy\SPI_Archive_Copy\bin\Release\log4net.dll
-C:\SPI\Service_Embraer\SPI_Archive_Copy\SPI_Archive_Copy\bin\Release\log4net.xml
-C:\SPI\Service_Embraer\SPI_Archive_Copy\SPI_Archive_Copy\obj\Release\SPI_Archive_Copy.exe
-C:\SPI\Service_Embraer\SPI_Archive_Copy\SPI_Archive_Copy\obj\Release\SPI_Archive_Copy.pdb
